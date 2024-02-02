@@ -54,5 +54,5 @@ input[type="text"]{
  input:active,
  button:focus,
  button:active{
-    outline: none;
+ outline: none;
  }
